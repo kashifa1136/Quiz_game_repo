@@ -7,7 +7,7 @@ questions = {
 }
 
 score = 0
-print("🧠 Welcome to the Quiz Game! 🧠")
+print("🧠 Welcome to the Quiz Game!! 🧠")
 print("Answer the following questions:\n")
 
 for question, answer in questions.items():
